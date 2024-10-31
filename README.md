@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋🏻 Hi, I'm Eli!
 👨🏻‍💻 AI Engineer <br>👨🏻‍🎓 Studying Computer Science at University of the Philippines<br>💭 Currently learning machine learning and web development<br>👾 I create games for fun 
 
 
