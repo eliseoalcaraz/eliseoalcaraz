@@ -1,6 +1,6 @@
 ## 👋🏻 Hi, I'm Eli!
 
-👨🏻‍💻 AI Engineer <br>👨🏻‍🎓 Studying Computer Science at University of the Philippines<br>💭 Currently learning machine learning and web development<br>👾 I create games for fun 
+👨🏻‍💻 AI Engineer <br>👨🏻‍🎓 Studying Computer Science at the University of the Philippines<br>💭 Currently learning machine learning and web development<br>👾 I create games for fun 
 
 ---
 ### 🌐 Socials:
